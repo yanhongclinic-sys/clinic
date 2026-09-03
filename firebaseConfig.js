@@ -1,13 +1,13 @@
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCx_BLIWVKZs0vJa5TwL6zoycJexY_5nXU",
-  authDomain: "system-1e90a.firebaseapp.com",
-  databaseURL: "https://system-1e90a-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "system-1e90a",
-  storageBucket: "system-1e90a.firebasestorage.app",
-  messagingSenderId: "80947900109",
-  appId: "1:80947900109:web:b6cd62bb2f1e07971a4384"
+  apiKey: "AIzaSyDw7tR_sHswtijzMZYNRJwAqn-bktYIUfc",
+  authDomain: "yanhongclinic-34dd3.firebaseapp.com",
+  databaseURL: "https://yanhongclinic-34dd3-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "yanhongclinic-34dd3",
+  storageBucket: "yanhongclinic-34dd3.firebasestorage.app",
+  messagingSenderId: "704808077435",
+  appId: "1:704808077435:web:89829776b6e31788abbade",
 };
 
 export default firebaseConfig;
